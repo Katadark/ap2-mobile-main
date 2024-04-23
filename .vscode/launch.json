@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://github.com/danielcpestana/ap2-mobile.git",
+            "request": "launch",
+            "url": "https://github.com/danielcpestana/ap2-mobile.git"
+        }
+    ]
+}
